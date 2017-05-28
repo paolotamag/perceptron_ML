@@ -1,0 +1,12 @@
+install python 2.7
+
+pip install numpy
+pip install matplolib
+
+python question_1.py
+
+follow prompt instrunctions
+
+python question_2.py
+
+follow prompt instrunctions
